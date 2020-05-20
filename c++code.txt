@@ -1,0 +1,14 @@
+// Example program
+#include <iostream>
+#include <string>
+using namespace std;
+int main()
+{
+    string speach;
+    speach = "Здравствуйте, меня зовут Даниил, я из 905 группы. Немного обо мне:";
+    string speach1;
+    speach1 = "Раньше занимался олимпиадным программированием и математикой , потом ушел в музыку.";
+    string speach2;
+    speach2 = "Но не отпустили меня эти занятия до конца , поэтому я тут. Ну как-то так...";
+    cout << speach << "\n" << speach1 << "\n" << speach2;
+} 
